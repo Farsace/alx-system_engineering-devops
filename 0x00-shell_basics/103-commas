@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -avpXu -m --group-directories-first
+ls -avpXu -m
