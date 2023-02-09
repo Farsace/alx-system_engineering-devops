@@ -1,2 +1,2 @@
 #!/bin/bash
-mklink _ls_ /bin/ls
+ln -sf /bin/ls _ls_
